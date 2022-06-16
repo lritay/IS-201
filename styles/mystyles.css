@@ -1,0 +1,49 @@
+h1{
+    color: white;
+}
+
+span{
+    color: gray;
+    font-style: italic;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+p{
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    background-color:#e6cce5;
+    color: black;
+}
+
+body{
+    background-color: beige;
+}
+
+.title{
+    color: black;
+    text-align: center;
+    text-decoration: underline;
+}
+
+img{
+    width: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.order{
+    text-align: left;
+}
+
+.paragraph{
+    width: 50%;
+    display: block;
+    text-align: left;
+}
+
+.list{
+    text-align: left;
+    font-style: italic;
+}
